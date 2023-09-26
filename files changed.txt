@@ -1,0 +1,8 @@
+        modified:   jhove-installer/pom.xml
+        modified:   jhove-installer/src/main/config/ext-modules/jhove.conf
+        modified:   jhove-installer/src/main/config/jhove.conf
+        modified:   jhove-installer/src/main/izpack/install.xml
+        modified:   jhove-modules/pom.xml
+        new file:   jhove-modules/tiff-opf/pom.xml
+        new file:   jhove-modules/tiff-opf/src/main/java/org/openpreservation/jhove/module/TiffModule.java
+        modified:   pom.xml
